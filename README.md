@@ -20,7 +20,7 @@ Docker Compose typically comes with the Docker installation on Windows and Mac. 
    ```bash
    git clone https://github.com/namas191297/flask_redis_dockercompose.git
    ```
-   Replace <url_to_repository> with the URL or path of your GitHub repository.
+  
 2. **Navigate to the Project Directory**: Once cloned, move into the project directory:
    ```bash
    cd flask_redis_dockercompose
