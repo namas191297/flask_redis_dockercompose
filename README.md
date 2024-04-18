@@ -18,12 +18,12 @@ Docker Compose typically comes with the Docker installation on Windows and Mac. 
 ## Installation
 1. **Clone the Repository**: First, clone this repository to your local machine using:
    ```bash
-   git clone <url_to_repository>
+   git clone [<url_to_repository>](https://github.com/namas191297/flask_redis_dockercompose.git)
    ```
    Replace <url_to_repository> with the URL or path of your GitHub repository.
 2. **Navigate to the Project Directory**: Once cloned, move into the project directory:
    ```bash
-   cd <path_to_cloned_repository>
+   cd flask_redis_dockercompose
    ```
 
 ## Usage
